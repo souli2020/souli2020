@@ -1,7 +1,8 @@
 ### Hi there 👋
 My name is Mi Soulimani
 =======================
-
+Click on the @icn-camera icon to take a screen shot.
+----------------------------------------------------
 Front End Developer
 -------------------
  
