@@ -30,12 +30,13 @@ Front End Developer
 Projects deployed
 -----------------
 
+*  [Google keep clone](https://mygooglekeep.netlify.app)
+
+*   [hacker news clone](https://myhackernewsclone.netlify.app/)
 *   [Search movies clone](https://searchmoviezzz.netlify.app)
-*   [hacker news clone](https://searchmoviezzz.netlify.app)
-*   [Google keep clone](https://searchmoviezzz.netlify.app)
-*   [Trivia quizz App](https://searchmoviezzz.netlify.app)
-*   [Nfts marketplace(expo snack)](https://searchmoviezzz.netlify.app)
-*   [Polywork feature suggestion(srim @scrimba)](https://searchmoviezzz.netlify.app)
+*   [Trivia quizz App](https://trivia-quizzz.netlify.app/)
+*   [Nfts marketplace(expo snack)](https://snack.expo.dev/@misouli/nft_marketplace)
+*   [Polywork feature suggestion(srim @scrimba)](https://scrimba.com/scrim/cvKgnJTb)
 
 Languages
 ---------
