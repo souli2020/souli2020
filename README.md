@@ -1,6 +1,7 @@
-#Hi there!
-<img src="file:///C:/Users/hp/OneDrive/Desktop/poster3.png" /> 
+ ![](file:///C:/Users/hp/OneDrive/Desktop/poster3.png#left)
+ 
  ----------------------------------------------------
+ 
 My name is Mi Soulimani
 -------------------
 Front End Developer
