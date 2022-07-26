@@ -4,8 +4,7 @@ My name is Mi Soulimani
 
 Front End Developer
 -------------------
-![](https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?auto=compress&cs=tinysrgb&w=600)
-
+ 
 ### About me
 
 *   Self-taught
@@ -25,3 +24,13 @@ Front End Developer
 *   Redux
 *   Babel
 *   Webpack
+*   
+Projects deployed
+-----------------
+
+*   [Search movies clone](https://searchmoviezzz.netlify.app)
+*   [hacker news clone](https://searchmoviezzz.netlify.app)
+*   [Google keep clone](https://searchmoviezzz.netlify.app)
+*   [Trivia quizz App](https://searchmoviezzz.netlify.app)
+*   [Nfts marketplace(expo snack)](https://searchmoviezzz.netlify.app)
+*   [Polywork feature suggestion(srim @scrimba)](https://searchmoviezzz.netlify.app)
