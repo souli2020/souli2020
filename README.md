@@ -10,8 +10,7 @@ Front End Developer
 *   Self-taught
 *   Javascript lover
 *   Learning about accessibility
-=======================
-
+ 
 
 ### Skills
 
@@ -28,8 +27,7 @@ Front End Developer
 *   git
 *   FP
 *   OOPs
-=======================
-
+ 
 Projects deployed
 -----------------
 
@@ -39,8 +37,7 @@ Projects deployed
 *   [Trivia quizz App](https://searchmoviezzz.netlify.app)
 *   [Nfts marketplace(expo snack)](https://searchmoviezzz.netlify.app)
 *   [Polywork feature suggestion(srim @scrimba)](https://searchmoviezzz.netlify.app)
-=======================
-
+ 
 Languages
 ---------
 
