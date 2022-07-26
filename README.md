@@ -24,7 +24,9 @@ Front End Developer
 *   Redux
 *   Babel
 *   Webpack
-*   
+*   git
+*   FP
+*   OOPs
 Projects deployed
 -----------------
 
@@ -34,3 +36,8 @@ Projects deployed
 *   [Trivia quizz App](https://searchmoviezzz.netlify.app)
 *   [Nfts marketplace(expo snack)](https://searchmoviezzz.netlify.app)
 *   [Polywork feature suggestion(srim @scrimba)](https://searchmoviezzz.netlify.app)
+Languages
+---------
+
+*   English
+*   French
