@@ -1,5 +1,5 @@
 #Hi there!
-<img src="file:///C:/Users/hp/OneDrive/Desktop/poster3.png"  width="100%"/> 
+<img src="file:///C:/Users/hp/OneDrive/Desktop/poster3.png" /> 
  ----------------------------------------------------
 My name is Mi Soulimani
 -------------------
