@@ -27,6 +27,7 @@ Front End Developer
 *   git
 *   FP
 *   OOPs
+
 Projects deployed
 -----------------
 
