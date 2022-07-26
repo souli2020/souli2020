@@ -1,9 +1,9 @@
-### Hi there 👋
-My name is Mi Soulimani
-=======================
+#Hi there!
+<img src="file:///C:/Users/hp/OneDrive/Desktop/poster3.png"  width="100%"/> 
  ----------------------------------------------------
-Front End Developer
+My name is Mi Soulimani
 -------------------
+Front End Developer
  
 ### About me
 
