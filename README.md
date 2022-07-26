@@ -1,6 +1,6 @@
 ### Hi there 👋
-Mi Soulimani
-============
+My name is Mi Soulimani
+=======================
 
 Front End Developer
 -------------------
