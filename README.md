@@ -8,6 +8,8 @@ Front End Developer
 *   Self-taught
 *   Javascript lover
 *   Learning about accessibility
+*   learning web3 with @Alchemy
+*   Dogecoin supporter
 
 ### Skills
 
