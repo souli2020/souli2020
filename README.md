@@ -47,4 +47,4 @@ Languages
 *   English
 *   French
 
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/4bdf138191151e9c30ebc96b80fc5dd6b93533560fc985655ad9fc8029f9fa88/68747470733a2f2f696d616765732e706578656c732e636f6d2f70686f746f732f313932313332362f706578656c732d70686f746f2d313932313332362e6a7065673f6175746f3d636f6d70726573732663733d74696e797372676226773d363030" width="100%" height="140">
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://camo.githubusercontent.com/4bdf138191151e9c30ebc96b80fc5dd6b93533560fc985655ad9fc8029f9fa88/68747470733a2f2f696d616765732e706578656c732e636f6d2f70686f746f732f313932313332362f706578656c732d70686f746f2d313932313332362e6a7065673f6175746f3d636f6d70726573732663733d74696e797372676226773d363030" width="100%" height="50%">
