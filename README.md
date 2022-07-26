@@ -4,7 +4,7 @@ My name is Mi Soulimani
 
 Front End Developer
 -------------------
-![](https://www.pexels.com/fr-fr/photo/texte-965345/)
+![](https://picsum.photos/200/300/?blur)
 ### About me
 
 *   Self-taught
