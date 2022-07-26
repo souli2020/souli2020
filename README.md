@@ -14,7 +14,8 @@ Front End Developer
 
 ### Skills
 
-*   HTML
+*   HTML ![html5](https://user-images.githubusercontent.com/65006383/180946825-b3dced62-c12a-4cae-82b6-6cf4b38939e7.png)
+
 *   CSS
 *   JavaScript
 *   TypeScript
