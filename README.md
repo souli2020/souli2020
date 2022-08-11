@@ -26,6 +26,7 @@ Front End Developer
 *   git
 *   FP
 *   OOPs
+MongoDB
 
 Projects deployed
 -----------------
