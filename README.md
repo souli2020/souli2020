@@ -26,7 +26,7 @@ Front End Developer
 *   git
 *   FP
 *   OOPs
-* MongoDB
+* MongoDB (learning phase)
 
 Projects deployed
 -----------------
