@@ -19,6 +19,7 @@ Front End Developer
 *   TypeScript
 *   RestFull
 *   React Js
+gatsby
 *   React Native (expo cli)
 *   Redux
 *   Babel
