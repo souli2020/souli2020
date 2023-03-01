@@ -9,7 +9,7 @@ Front End Developer
 *   Javascript lover
 *   Learning about accessibility
 *   learning web3 with @Alchemy
-*   Dogecoin supporter
+
 
 ### Skills
 
@@ -19,15 +19,19 @@ Front End Developer
 *   TypeScript
 *   RestFull
 *   React Js
-gatsby
-*   React Native (expo cli)
+*   React Native 
 *   Redux
 *   Babel
 *   Webpack
-*   git
+*   git (Trunk-based development)
 *   FP
 *   OOPs
-* MongoDB (learning phase)
+*   MongoDB 
+*   Node.js
+*   Express.js
+*   Mongoose
+*   Web automation : Puppeteer
+
 
 Projects deployed
 -----------------
