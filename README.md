@@ -1,7 +1,7 @@
 My name is Mi Soulimani
 -----------------------
 
-Front End Developer
+Full-stack Developer
 
 ### About me
 
