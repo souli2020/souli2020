@@ -1,11 +1,5 @@
-<style>
-  body {
-    background-image: url('safar-safarov-koOdUvfGr4c-unsplash.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-  }
-</style>
+ <link rel="stylesheet" type="text/css" href="style.css">
+
 My name is Mi Soulimani
 -----------------------
 
