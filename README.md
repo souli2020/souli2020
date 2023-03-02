@@ -1,6 +1,6 @@
 <style>
   body {
-    background-image: url('image_path');
+    background-image: url('safar-safarov-koOdUvfGr4c-unsplash.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
