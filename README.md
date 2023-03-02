@@ -1,7 +1,7 @@
 My name is Mi Soulimani
 -----------------------
 
-![background image](C:\Users\hp\OneDrive\Desktop)
+![background image]('C:\Users\hp\OneDrive\Desktop')
 
 
 Full-stack Developer
