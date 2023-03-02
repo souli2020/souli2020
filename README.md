@@ -3,8 +3,7 @@
 My name is Mi Soulimani
 -----------------------
 
-![background image](safar-safarov-koOdUvfGr4c-unsplash.jpg)
-
+ 
 
 Full-stack Developer
 
