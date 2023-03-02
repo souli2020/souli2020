@@ -1,3 +1,11 @@
+<style>
+  body {
+    background-image: url('image_path');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+</style>
 My name is Mi Soulimani
 -----------------------
 
