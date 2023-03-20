@@ -1,4 +1,8 @@
 <link rel="stylesheet" type="text/css" href="style.css">
+# My Awesome Animated GIF
+
+![alt text](https://media.giphy.com/media/l0MYGb1gygFdZC2Jy/giphy.gif)
+
 
 My name is Mi Soulimani
 -----------------------
