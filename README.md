@@ -1,4 +1,4 @@
- <link rel="stylesheet" type="text/css" href="style.css"> 
+<link rel="stylesheet" type="text/css" href="style.css">
 
 My name is Mi Soulimani
 -----------------------
@@ -9,13 +9,19 @@ Full-stack Developer
 
 ### About me
 
-*   Self-taught
-*   Javascript lover
-*   Learning about accessibility
-*   learning web3 with @Alchemy
+<div class="animated">
+  <ul>
+    <li>Self-taught</li>
+    <li>Javascript lover</li>
+    <li>Learning about accessibility</li>
+    <li>learning web3 with @Alchemy</li>
+  </ul>
+</div>
 
 
 ### Skills
+
+<div class="skills">
 
 *   HTML
 *   CSS
@@ -35,6 +41,9 @@ Full-stack Developer
 *   Express.js
 *   Mongoose
 *   Web automation : Puppeteer
+
+</div>
+
 
 
 Projects deployed
