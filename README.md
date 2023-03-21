@@ -70,9 +70,15 @@ Languages
 *   French
                                                        
                                                        
-                                                       
-       ![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
-                                                
+******************************************
+***                                      ***
+***   Thank you for reading this far!   ***
+***                                      ***
+******************************************
+
+
+
+                                                 
                                                        
                                                        
                                                        
