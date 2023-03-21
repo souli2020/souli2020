@@ -3,7 +3,7 @@
 My name is Mi Soulimani
 -----------------------
 
-![alt text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+![alt text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
  
 
@@ -64,5 +64,16 @@ Languages
 
 *   English
 *   French
+                                                       
+                                                       
+                                                       
+       ![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+                                                
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
+                                                       
 
  
